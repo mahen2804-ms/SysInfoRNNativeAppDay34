@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$00SXvuMcVJjg4pm.nkYJi.r1cczpwICVhEFpl0YCPsB5O/f/Des/q",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    },
+    {
+      "email": "Yagnesh.modh@gmail.com",
+      "password": "$2a$10$OsyV0UB9c9nMHxXX8R6bcebM8ziMSys/jXvG8EyYyjCCMFWmbeuM2",
+      "firstName": "Yagnesh",
+      "lastName": "Modh",
+      "age": "33",
+      "id": 2
+    },
+    {
+      "email": "virat.kohli@gmail.com",
+      "password": "$2a$10$iWScr3S6303WdSNBIE8UH.zsWR6XgvFNVbEKvR.HpjoGYexqMTLw2",
+      "firstName": "Virat",
+      "lastName": "Kohli",
+      "age": "28",
+      "id": 3
+    },
+    {
+      "email": "yagnesh.modh@gmail.com",
+      "password": "$2a$10$7wqHzW1y9yMGYGz0ZnroAu6KAGX3sNvFc2BxDnG8AF1YN34Cricru",
+      "firstName": "Yagnesh",
+      "lastName": "Modh",
+      "age": "33",
+      "id": 4
+    }
+  ]
+}
